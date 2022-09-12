@@ -1,0 +1,33 @@
+Git Flow
+-------------
+git clone url : to clone git repository to local git repository
+
+git pull : for updating local repository
+
+git status : for checking untracked files
+
+git add filename.ext : for adding a file to a staging area
+
+git add .  : for adding all files to a staging area
+
+git add filename2.ext filename3.ext : : for adding files to a staging area
+
+git add --all : only modified files will be added to a staging area
+
+git commit -m "description" : to commit to local git repository
+
+git push origin master : to push to GitHub
+
+cat filename.ext : to see the content of a file
+
+ls : to list the content of a directory
+
+git remote -v : to see the url of repository
+
+git branch : to list all branches
+
+git checkout -b development : to switch to a new branch repo directory
+
+git merge branch
+
+git log : to see commit messages
